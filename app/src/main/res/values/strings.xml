@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">INILO</string>
+    <string name="error">Gagal Mengambil Data!</string>
+</resources>
